@@ -1,7 +1,11 @@
 What is a gitignore file and what should it include for a Java project?
+ans: In a gitignore file, a programmer can create some ignore rules shared with other teammates, so GitHub knows with files (or pattern) it should ignore. For a java project, it includes compiled class file, log file, BlueJ files, Mobile Tools for java, package files, and virtual machine crash logs.
 
 What does fast-forward in Git mean?
+ans: The fast-forward happens when a user merges branches. If master has no divergence, git just moving pointer forward to latest commit instead of creating a new commit.
 
 Why should you have different branches?
+ans: Due to several users working on one project, branches can prevent they interact each other.
 
 In a project how many remote Git repositories do you usually have?
+ans: Two files, one is fetch, another is push.
