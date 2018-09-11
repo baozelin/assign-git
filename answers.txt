@@ -12,4 +12,4 @@ Answers: Due to several users working on one project, branches can prevent they 
 
 In a project how many remote Git repositories do you usually have?
 
-Answers: Two files, one is fetch, another is push.
+Answers: Two files.
